@@ -185,7 +185,7 @@
 }
 .about .imgBx{
     width: 50%;
-    background-image: url(/images/window.jpg);
+    background-image: url(./images/window.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -307,13 +307,13 @@
     text-align: center;
 }
 .imgBx2{
-    background: url(/images/bg2.jpg);
+    background: url(./images/bg2.jpg);
     background-size: cover;
     background-position: center;
     width: 50%;
 }
 .RedBg{
-    background: url(/images/red.jpg) !important;
+    background: url(./images/red.jpg) !important;
     background-size: cover;
     background-position: center;
 }
