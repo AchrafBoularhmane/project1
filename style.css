@@ -364,27 +364,10 @@
 .footer{
     background: #000000;
     padding: 20px 100px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    text-align: center;
 }
-.footer ul {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.footer ul li{
-    list-style: none;
-}
-.footer ul li a{
-    text-decoration: none;
-    display: inline-block;
-    margin: 0px 10px;
-}
-.footer ul li a img{
-    filter: invert(1);
-    max-width: 20px;
-}
+
+
 
 @media (max-width:991px){
     .menuoverlay ul li a{
@@ -463,9 +446,6 @@
            padding: 20px 50px;
            flex-direction: column-reverse;
            text-align: center;
-       }
-       .footer ul{
-           margin-bottom: 20px;
        }
 }
 
